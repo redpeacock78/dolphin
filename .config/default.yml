@@ -67,15 +67,15 @@ url: https://dolphin.tamakasu.ga/
 #───┘ PostgreSQL configuration └────────────────────────────────
 
 db:
-  host: dpg-ce3kav2rrk02ufip3cdg-a
+  host: dpg-ce3mdokgqg4c9hnkahk0-a
   port: 5432
 
   # Database name
-  db: dolphin
+  db: dolphin_9g0r
 
   # Auth
-  user: dolphin_user
-  pass: mYK6U2VzT7k6XwuzAKv5uCPwhMoLMbMO
+  user: dolphin_9g0r_user
+  pass: D2FibcA6j7CuAwFpjLcOZkIVpdPnjExO
 
   # Whether disable Caching queries
   #disableCache: true
@@ -88,7 +88,7 @@ db:
 #───┘ Redis configuration └─────────────────────────────────────
 
 redis:
-  host: red-ce3kioda4999gmf8krvg
+  host: red-ce3megsgqg4c9hnkc4kg
   port: 6379
   #pass: example-pass
 
