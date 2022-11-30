@@ -9,16 +9,16 @@
 name: 'Dolphin'
 
 # Your name
-maintainerName: ''
+maintainerName: 'redpeacock78'
 
 # Youe email address
-maintainerEmail: ''
+maintainerEmail: 'redpeacock78@dev.tamakasu.ga'
 
 #   ┌─────┐
 #───┘ URL └─────────────────────────────────────────────────────
 
 # Final accessible URL seen by a user.
-url: https://dolphin.onrender.com/
+url: https://dolphin.tamakasu.ga/
 
 # ONCE YOU HAVE STARTED THE INSTANCE, DO NOT CHANGE THE
 # URL SETTINGS AFTER THAT!
