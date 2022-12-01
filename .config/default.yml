@@ -204,4 +204,4 @@ id: 'aid'
 #proxySmtp: socks5://127.0.0.1:1080 # use SOCKS5
 
 # Proxy for URL preview
-#summalyProxy: http://example.com
+#summalyProxy: https://summaly.arkjp.net
